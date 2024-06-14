@@ -1,0 +1,502 @@
+Company Name,LTP(Last Traded Price),52 Week High,52 Week Low
+Reliance Industries,"2,930.50","3,029.00","2,220.30"
+Tata Consultancy Services,"3,878.15","4,254.75","3,173.00"
+HDFC Bank,"1,580.75","1,757.50","1,363.55"
+Bharti Airtel,"1,425.75","1,455.95",819.00
+ICICI Bank,"1,107.35","1,173.00",899.00
+State Bank of India,843.90,912.00,543.20
+LIC of India,"1,002.30","1,175.00",595.05
+Infosys,"1,493.95","1,733.00","1,262.25"
+Hindustan Unilever,"2,487.40","2,769.65","2,172.05"
+ITC,430.30,499.70,399.35
+Larsen & Toubro,"3,703.65","3,919.90","2,340.00"
+Bajaj Finance,"7,294.95","8,192.00","6,187.80"
+Maruti Suzuki,"12,846.85","13,073.95","9,254.15"
+HCL Technologies,"1,444.15","1,697.35","1,087.05"
+Adani Enterprises,"3,224.80","3,743.90","2,142.00"
+Axis Bank,"1,174.65","1,242.20",927.15
+Sun Pharmaceutical,"1,510.80","1,638.85",977.30
+Tata Motors,985.85,"1,065.60",557.70
+NTPC,369.95,393.20,183.35
+Mahindra & Mahindra,"2,861.70","2,886.00","1,366.00"
+Oil & Natural Gas Corporation,276.55,292.95,155.40
+Kotak Bank,"1,726.35","1,987.75","1,543.85"
+Hindustan Aeronautics,"5,099.70","5,444.00","1,767.80"
+UltraTech Cement,"11,173.80","11,299.00","7,987.65"
+Titan,"3,472.20","3,875.00","2,882.45"
+Adani Ports & SEZ,"1,404.45","1,621.40",703.00
+Avenue Supermarts DMart,"4,656.65","4,924.20","3,491.25"
+Coal India,487.90,527.40,223.25
+Power Grid Corporation of India,321.45,348.70,177.53
+Adani Power,753.80,895.85,231.00
+Adani Green Energy,"1,797.55","2,174.10",815.55
+Hindustan Zinc,672.40,807.70,284.60
+Asian Paints,"2,910.00","3,568.00","2,670.10"
+Bajaj Auto,"9,923.40","9,944.00","4,541.00"
+Siemens,"7,396.60","7,468.00","3,246.00"
+Bajaj Finserv,"1,590.10","1,741.00","1,419.05"
+Wipro,482.60,545.90,375.05
+Nestle,"2,551.75","2,769.30","2,145.00"
+Indian Oil Corporation,168.95,196.80,85.50
+Jio Financial Services,360.80,394.70,202.80
+IRFC,175.13,200.00,31.95
+Tata Steel,182.56,184.10,108.10
+JSW Steel,915.75,928.95,723.00
+Bharat Electronics,300.90,323.00,117.90
+DLF,874.05,967.60,463.05
+Varun Beverages,"1,578.55","1,598.35",755.00
+ABB,"8,446.60","8,765.00","3,850.00"
+Trent,"5,023.85","5,188.00","1,657.45"
+Power Finance Corporation,503.55,559.00,155.40
+Interglobe Aviation,"4,302.65","4,609.80","2,333.35"
+Grasim Industries,"2,458.05","2,489.75","1,689.28"
+Ambuja Cements,664.50,680.45,404.05
+Vedanta,439.80,506.75,208.00
+Zomato,184.94,207.20,72.55
+Pidilite Industries,"3,078.60","3,231.00","2,292.55"
+Macrotech Developers,"1,538.75","1,552.50",621.00
+Hindalco Industries,680.70,715.25,407.45
+LTI Mindtree,"5,047.20","6,442.00","4,513.55"
+Bank of Baroda,282.70,299.70,182.65
+SBI Life Insurance,"1,449.90","1,569.40","1,227.65"
+Tata Power,451.90,464.20,215.70
+GAIL,219.83,233.20,103.30
+Godrej Consumer Products,"1,409.30","1,467.10",959.80
+Punjab National Bank,126.57,142.90,49.70
+Rural Electrification Corporation,521.50,607.80,151.00
+Tech Mahindra,"1,388.95","1,416.30","1,069.35"
+Bharat Petroleum,619.35,687.95,331.45
+Eicher Motors,"4,801.50","4,908.00","3,160.00"
+Britannia Industries,"5,379.45","5,725.00","4,347.70"
+HDFC Life Insurance,593.50,710.60,511.40
+Indian Overseas Bank,67.42,83.75,23.70
+Cipla,"1,544.55","1,551.00",972.60
+Divis Laboratories,"4,593.50","4,617.00","3,295.30"
+Cholamandalam Investment,"1,436.10","1,439.95",997.25
+Indusind Bank,"1,507.25","1,694.50","1,262.00"
+Hero Motocorp,"5,816.00","5,859.00","2,745.05"
+TVS Motors,"2,441.65","2,461.00","1,289.00"
+JSW Energy,659.45,668.85,251.55
+Havells,"1,838.50","1,985.40","1,232.85"
+Samvardhana Motherson International,168.76,169.02,81.00
+Adani Energy Solutions,"1,017.65","1,250.00",686.00
+Union Bank of India,146.24,172.50,68.00
+Canara Bank,121.92,128.90,58.33
+Zydus Life Science,"1,090.50","1,172.50",515.60
+Vodafone Idea,16.07,18.40,7.15
+Dabur,609.65,633.40,489.20
+Tata Consumer Products,"1,114.60","1,269.00",816.00
+Jindal Steel,"1,041.25","1,085.95",534.20
+Polycab,"7,047.20","7,116.20","3,379.75"
+Bharat Heavy Electricals,303.95,322.50,83.30
+Adani Total Gas,945.80,"1,259.40",522.00
+Cummins,"3,712.50","3,900.00","1,653.30"
+NHPC,102.30,118.00,44.75
+CG Power & Industrial Solutions,667.75,700.00,359.20
+Dr Reddys Laboratories,"6,095.85","6,505.90","4,685.00"
+Shriram Finance,"2,684.30","2,697.65","1,703.85"
+Shree Cement,"27,490.75","30,737.75","22,605.60"
+Torrent Pharmaceuticals,"2,874.90","2,918.80","1,772.05"
+Bosch,"32,433.15","32,683.25","17,931.15"
+IDBI Bank,86.33,98.70,53.25
+United Spirits,"1,275.45","1,334.85","1,212.30"
+Bajaj Holdings & Investments,"8,253.45","9,348.95","6,627.90"
+Indus Towers,339.50,369.90,157.35
+Mankind Pharma,"2,240.20","2,490.00","1,524.10"
+Apollo Hospitals,"6,206.20","6,874.45","4,726.00"
+Solar Industries,"9,739.35","10,450.00","3,453.35"
+Max Healthcare Institute,890.05,914.80,508.50
+ICICI Prudential Life Insurance,596.15,640.85,463.45
+HDFC AMC,"3,996.15","4,186.95","1,885.55"
+Godrej Properties,"3,030.75","3,047.95","1,468.90"
+Oracle Financial Services Software,"9,658.00","9,760.00","3,737.25"
+Indian Hotels Company,589.30,622.50,371.60
+ICICI Lombard General Insurance,"1,662.70","1,747.00","1,200.10"
+Tube Investment,"4,237.00","4,264.55","2,758.00"
+IRCTC,"1,017.55","1,138.90",614.35
+Rail Vikas Nigam,390.15,425.00,117.05
+Info Edge,"6,266.70","6,545.00","3,972.05"
+Colgate Palmolive,"2,936.20","3,069.05","1,625.00"
+Marico,611.25,667.20,486.30
+Linde,"9,278.10","9,935.05","4,280.00"
+NMDC,265.35,286.35,103.80
+Supreme Industries,"6,055.95","6,460.00","2,938.50"
+Torrent Power,"1,597.80","1,633.10",588.10
+Bharat Forge,"1,636.95","1,655.00",799.80
+Prestige Estate,"1,872.60","1,910.00",521.20
+Hindustan Petroleum,528.35,594.80,239.20
+Yes Bank,23.80,32.85,15.70
+Aurobindo Pharma,"1,254.65","1,292.10",665.75
+Oil India,677.85,689.85,240.80
+Lupin,"1,605.45","1,728.00",809.95
+Indian Bank,541.75,632.70,275.60
+Muthoot Finance,"1,792.70","1,810.95","1,140.50"
+SRF,"2,399.90","2,693.95","2,040.00"
+Schaeffler India,"4,524.40","4,745.00","2,612.20"
+Oberoi Realty,"1,934.90","1,952.05",975.00
+Container Corporation of India,"1,140.30","1,180.00",629.20
+Ashok Leyland,236.79,241.50,154.25
+SBI Cards,727.05,933.00,647.95
+GIC of India,390.40,467.80,178.55
+Mazagon Dock Shipbuilders,"3,389.90","3,478.00","1,022.00"
+UCO Bank,56.94,70.65,26.10
+Suzlon Energy,49.87,52.10,13.25
+Jindal Stainless,816.20,841.00,317.05
+Dixon Technologies,"10,855.70","10,888.80","3,953.00"
+Thermax,"5,342.40","5,699.95","2,191.85"
+Aditya Birla Capital,239.08,243.70,155.00
+Steel Authority of India,149.63,175.35,81.80
+Balkrishna Industries,"3,190.05","3,283.50","2,193.80"
+Phoenix Mills,"3,432.65","3,515.10","1,516.00"
+JSW Infrastructure,290.45,299.95,142.20
+Alkem Laboratories,"5,089.70","5,578.80","3,307.20"
+Astral,"2,236.20","2,352.00","1,740.00"
+PB FinTech,"1,316.60","1,400.35",626.00
+Abbott,"27,616.70","29,638.95","21,919.55"
+Berger Paints,501.35,679.75,439.00
+PERSISTENT SYSTEMS LTD,"3,790.70","4,450.00","2,317.18"
+UNO Minda,998.95,"1,065.00",548.60
+Central Bank of India,65.76,76.90,26.55
+Bank of India,124.51,157.95,69.50
+United Breweries,"2,118.30","2,182.45","1,465.80"
+HUDCO,279.00,300.00,56.90
+GMR Airports Infrastructure,91.73,94.35,41.75
+PI Industries,"3,638.20","4,040.00","3,220.00"
+P&G Hygiene and Health Care,"16,899.95","19,250.00","13,764.05"
+IDFC First Bank,77.46,100.70,70.80
+BHARAT DYNAMICS LIMITED,"1,491.10","1,662.95",450.00
+Patanjali Foods,"1,481.20","1,713.80","1,035.00"
+Tata Communications,"1,877.00","2,084.65","1,512.45"
+MRF,"1,26,079.60","1,51,445.00","98,280.10"
+Cochin Shipyard,"2,006.80","2,100.00",272.50
+SJVN,133.12,170.50,38.00
+L&T Technology Services,"4,905.10","5,873.35","3,755.25"
+Sundaram Finance,"4,546.75","4,998.00","2,493.10"
+Fertilisers & Chemical Travancore,772.40,908.00,326.00
+AU Small Finance Bank,668.15,813.40,553.70
+ACC,"2,635.80","2,746.40","1,754.00"
+Voltas,"1,482.65","1,502.30",745.00
+Petronet LNG,323.05,326.00,191.70
+Honeywell Automation,"54,568.25","58,994.00","34,977.70"
+Nykaa,167.03,195.50,130.10
+Bank of Maharashtra,66.68,73.50,26.80
+Escorts Kubota,"4,247.65","4,260.45","2,117.20"
+Mphasis,"2,456.50","2,837.60","1,807.60"
+Exide Industries,542.30,549.90,206.20
+Hitachi Energy,"10,830.85","12,379.60","3,895.90"
+GlaxoSmithKline Pharmaceuticals,"2,700.70","2,709.25","1,377.25"
+Tata Elxsi,"7,231.05","9,200.00","6,411.20"
+Adani Wilmar,344.30,437.90,285.80
+Coromandel International,"1,498.35","1,505.90",913.55
+Gujarat Gas,636.20,644.10,397.05
+L&T Finance,175.87,179.18,108.55
+KEI Industries,"4,825.90","4,889.00","2,115.00"
+Page Industries,"38,833.00","42,885.00","33,070.05"
+APL Apollo Tubes,"1,539.35","1,800.00","1,275.05"
+Tata Technologies,"1,049.05","1,400.00",982.25
+Federal Bank,172.26,175.10,121.00
+United Phosphorus,557.70,696.00,447.80
+3M India,"36,894.60","39,876.10","26,512.00"
+Kalyan Jewellers,398.40,449.70,112.25
+KPIT Technologies,"1,487.40","1,764.00",961.00
+Biocon,338.15,349.45,217.50
+Nippon Life India AMC,640.70,657.00,243.00
+IRB Infrastructure Developers,66.46,78.15,24.95
+The New India Assurance Company,241.77,324.70,113.90
+LIC Housing Finance,719.30,726.00,370.00
+Motilal Oswal Financial Services,657.55,722.00,166.76
+Sona BLW Precision Forgings,651.90,718.85,488.10
+Mangalore Refinery & Petroleum,217.31,289.25,65.00
+BSE,"2,736.20","3,264.70",564.65
+Fortis Healthcare,483.00,489.00,284.30
+Lloyds Metals & Energy,720.60,750.00,492.00
+M&M Financial Services,293.30,346.55,237.35
+Gujarat Fluorochemicals,"3,290.75","3,920.00","2,476.00"
+AIA Engineering,"3,825.80","4,630.00","3,100.75"
+Endurance Technologies,"2,551.10","2,585.00","1,510.15"
+Dalmia Bharat,"1,901.80","2,430.70","1,651.40"
+Coforge,"5,273.25","6,847.45","4,287.25"
+Jubilant FoodWorks,532.60,586.95,421.05
+Blue Star,"1,687.80","1,698.40",701.70
+Glenmark Pharmaceuticals,"1,224.85","1,232.50",621.80
+Global Health,"1,277.40","1,513.90",627.25
+NALCO,186.56,206.30,80.65
+Indraprastha Gas,487.05,501.00,375.70
+Max Financial Services,987.80,"1,092.00",668.30
+Apar Industries,"8,511.95","8,679.90","2,925.00"
+Poonawalla Fincorp,436.10,519.70,332.10
+Aditya Birla Fashion,326.90,333.90,192.95
+Carborundum Universal,"1,737.50","1,800.00","1,025.60"
+ZF Commercial,"17,373.35","18,250.00","11,684.05"
+Deepak Nitrite,"2,411.05","2,619.80","1,900.20"
+JK Cement,"4,241.95","4,575.00","3,030.25"
+Hindustan Copper,335.90,415.80,112.25
+Tata Investment Corporation,"6,410.50","9,756.85","2,280.00"
+Timken,"4,294.15","4,398.80","2,524.50"
+NLC India,232.49,293.75,95.80
+Tata Motors DVR,666.05,712.60,294.40
+Motherson Sumi Wiring,72.62,74.80,55.35
+Brigade Enterprises,"1,362.75","1,440.00",550.10
+Bandhan Bank,194.23,263.10,169.15
+Emami,706.40,762.00,373.70
+SKF India,"6,199.40","6,380.00","4,024.50"
+Metro Brands,"1,128.65","1,441.20",929.00
+Gland Pharma,"1,855.80","2,194.00",971.00
+Ajanta Pharma,"2,420.35","2,540.00","1,386.60"
+IPCA Laboratories,"1,199.80","1,374.60",691.20
+CRISIL,"4,152.35","5,268.50","3,660.70"
+Apollo Tyres,476.70,557.90,365.00
+Star Health Insurance,516.90,675.00,454.80
+Grindwell Norton,"2,711.75","2,777.00","1,875.20"
+Sun TV Network,759.30,792.60,423.00
+Aegis Logistics,841.10,887.65,664.75
+ITI,305.95,384.30,106.40
+KPR Mill,859.35,928.15,615.00
+J B Chemicals and Pharmaceuticals,"1,885.35","1,940.00","1,071.80"
+Delhivery,393.40,488.00,354.20
+Jupiter Wagons,700.00,727.85,135.55
+Tata Chemicals,"1,116.30","1,349.00",933.00
+Godrej Industries,834.45,990.00,468.50
+360 One WAM,782.15,900.95,419.85
+Syngene International,696.60,860.25,607.65
+NBCC,155.19,176.85,38.20
+Vedant Fashions,"1,148.25","1,487.90",886.05
+Bayer Crop Science,"6,134.10","6,201.25","4,141.00"
+Crompton Greaves,425.05,426.40,261.25
+Paytm,428.05,998.30,310.00
+Sundram Fasteners,"1,291.40","1,340.70","1,003.05"
+EIH Hotels,426.90,502.20,203.30
+Gillette,"7,777.80","7,999.00","4,482.10"
+Ircon International,267.85,301.45,79.00
+Narayana Hrudayalaya,"1,226.55","1,444.90",936.55
+Amara Raja Energy & Mobility,"1,340.65","1,538.60",599.00
+Aarti Industries,675.25,769.25,438.00
+Sumitomo Chemical,488.90,506.00,336.10
+JBM Auto,"2,062.35","2,428.35",949.85
+Century Textile & Industries,"2,181.20","2,278.85",784.00
+Ratnamani Metals & Tubes,"3,423.15","3,938.80","2,262.05"
+Finolex Cables,"1,566.70","1,595.00",780.50
+Cholamandalam Financial Holdings,"1,274.50","1,296.00",855.55
+Kaynes Technology,"3,721.35","3,775.00","1,461.10"
+Laurus Labs,439.50,471.00,328.15
+Angel One,"2,628.60","3,896.00","1,452.00"
+Credit Access Grameen,"1,482.65","1,796.00","1,168.70"
+Tejas Networks,"1,371.10","1,414.00",651.25
+Five Star Business Finance,797.05,876.55,590.00
+ICICI Securities,717.80,866.45,506.20
+Dr. Lal Path Labs,"2,777.65","2,889.00","1,943.70"
+Radico Khaitan,"1,726.00","1,885.10","1,141.25"
+Kansai Nerolac Paints,283.20,357.30,251.85
+Whirlpool,"1,794.80","1,837.80","1,186.10"
+KEC International,868.60,871.20,543.25
+CIE Automotive,580.05,586.90,406.80
+CDSL,"2,102.00","2,239.00",985.00
+Devyani International,179.98,227.50,142.25
+PNB Housing Finance,832.30,913.70,558.00
+Cyient,"1,906.30","2,458.95","1,392.10"
+Natco Pharma,"1,176.45","1,189.00",618.65
+Elgi Equipments,657.85,714.20,463.00
+Finolex Industries,335.80,355.90,170.05
+Kajaria Ceramics,"1,294.10","1,523.80","1,110.35"
+Sobha,"2,162.25","2,220.00",521.45
+Ramco Cements,866.25,"1,058.20",700.00
+Nagarjuna Construction Company,325.75,336.70,117.40
+Trident,40.03,52.90,31.60
+Piramal Pharma,153.40,166.70,87.21
+Godfrey Phillips,"3,859.70","4,288.00","1,620.00"
+Castrol,202.50,230.40,117.90
+IIFL Finance,472.35,683.25,304.28
+Kalpataru Projects International,"1,226.80","1,342.60",516.00
+CESC,150.12,157.65,70.80
+Piramal Enterprises,880.60,"1,139.95",736.60
+RR Kabel,"1,755.30","1,901.95","1,136.80"
+MCX,"3,880.50","4,270.00","1,411.40"
+Titagarh Rail Systems,"1,445.65","1,594.25",410.00
+Swan Energy,614.65,782.25,214.25
+Blue Dart Express,"8,095.50","8,179.80","5,486.60"
+Inox Wind,146.31,177.00,35.13
+Birlasoft,683.25,861.85,333.00
+Schneider Electric Infra,788.10,955.05,238.55
+Bata,"1,468.40","1,771.45","1,269.00"
+Cello World,877.85,963.80,711.20
+Signature Global,"1,321.90","1,427.90",444.00
+IDFC,114.23,137.00,96.50
+ATUL,"6,209.35","7,589.90","5,174.85"
+Aster DM Healthcare,362.90,558.00,278.00
+Shyam Metalics & Energy,647.45,737.80,317.90
+Jindal SAW,564.40,598.00,228.30
+Computer Age Management Services,"3,665.35","3,685.95","2,132.00"
+Chalet Hotels,825.20,958.00,401.55
+Triveni Turbines,566.50,676.10,312.00
+Nuvama Wealth Management,"5,087.10","5,500.00","2,100.00"
+Bikaji Foods International,714.75,727.95,403.30
+Poly Medicure,"1,860.55","1,925.60",983.85
+V-Guard Industries,410.20,414.65,251.50
+Himadri Speciality Chemical,360.85,398.75,125.50
+Navin Fluorine International,"3,562.05","4,724.25","2,875.95"
+Garden Reach Shipbuilders,"1,535.05","1,573.00",543.25
+CAPRI GLOBAL CAPITAL LTD,214.04,289.25,181.25
+Sterling & Wilson Renewable Energy,755.05,828.00,253.00
+Affle India,"1,251.15","1,336.90",972.00
+Chambal Fertilisers & Chemicals,434.85,439.00,250.05
+Redington,222.06,237.55,136.20
+Alembic Pharmaceuticals,882.95,"1,094.00",585.15
+Action Construction Equipment,"1,455.30","1,695.00",453.05
+Aptus Value Housing Finance,344.40,392.00,239.70
+Gujarat State Petronet,303.50,406.75,254.50
+Suven Pharmaceuticals,667.95,768.00,475.15
+Great Eastern Shipping Company,"1,188.35","1,209.80",692.20
+Raymond,"2,521.20","2,685.00","1,487.60"
+BEML,"4,029.20","4,800.00","1,498.15"
+Karur Vysya Bank,206.83,218.00,114.10
+DCM Shriram Consolidated,"1,057.40","1,175.00",826.30
+Anand Rathi Wealth,"3,941.10","4,299.95",851.10
+KSB,"4,693.20","5,190.00","2,013.35"
+RITES,679.40,825.95,364.80
+Zensar Technologies,715.85,723.00,376.00
+Jyothy Laboratories,440.90,554.00,204.30
+HFCL,112.23,117.80,61.50
+Sonata Software,573.75,870.00,469.60
+Krishna Institute of Medical Sciences,"2,006.55","2,356.40","1,599.45"
+Jai Balaji Industries,938.65,"1,314.00",72.50
+Indian Energy Exchange,178.25,181.75,119.00
+AstraZeneca Pharma,"6,373.40","7,220.95","3,540.25"
+Zee Entertainment,165.05,299.70,125.50
+Manappuram Finance,186.77,207.30,118.40
+RBL Bank,259.83,300.70,164.55
+Tata Teleservices Maharashtra,80.16,109.10,65.05
+IndiaMART InterMesh,"2,571.25","3,335.55","2,230.00"
+Data Patterns,"2,733.55","3,443.90","1,696.00"
+Century Plyboards,679.65,849.50,594.00
+Concord Biotech,"1,444.70","1,725.00",900.05
+Asahi India Glass,617.05,660.00,467.95
+Sanofi,"6,513.05","10,524.95","5,892.80"
+Elecon Engineering Company,"1,317.65","1,355.50",544.00
+Chennai Petroleum Corporation,979.85,"1,122.50",347.90
+Clean Science & Technology,"1,370.80","1,622.00","1,243.00"
+Aavas Financiers,"1,837.60","1,934.00","1,307.00"
+Intellect Design Arena,"1,064.80","1,199.00",572.00
+Godawari Power & ISPAT,"1,063.80","1,088.65",430.15
+Mahanagar Gas,"1,461.35","1,580.00",970.55
+BLS International Services,350.90,429.95,186.50
+Firstsource Solutions,204.27,228.90,122.15
+Fine Organic Industries,"4,697.50","5,164.90","4,021.00"
+Olectra Greentech,"1,749.65","2,221.95",898.20
+Engineers India,253.81,289.90,107.50
+Welspun Corp,542.70,631.90,258.55
+Mama Earth,434.95,511.00,256.30
+RHI Magnesita,675.55,824.00,504.25
+Eris Lifesciences,"1,023.25","1,053.90",649.00
+Vardhman Textiles,478.15,504.70,334.40
+Alok Industries,27.72,39.05,14.00
+Amber Enterprises,"4,063.50","4,614.20","2,099.05"
+Welspun Living,140.82,171.25,122.65
+PVR Inox,"1,391.65","1,875.45","1,204.20"
+Happiest Minds Technologies,894.45,"1,023.00",741.00
+Ramkrishna Forgings,753.40,814.70,404.25
+J&K Bank,122.82,152.50,54.90
+Railtel Corporation of India,417.20,491.45,123.00
+Rainbow Childrens Medicare,"1,307.95","1,649.00",925.00
+HBL Power Systems,478.80,612.00,142.30
+EID Parry,720.40,733.30,452.35
+Tanla Platforms,940.00,"1,317.95",782.05
+Usha Martin,414.80,423.95,252.80
+Westlife Foodworld,809.20,"1,024.95",708.95
+Praj Industries,685.70,692.85,365.95
+UTI AMC,989.20,"1,005.00",677.65
+Nuvoco Vistas Corporation,347.90,398.00,291.30
+KFin Technologies,719.80,822.00,335.10
+PNC Infratech,480.60,574.80,310.10
+GMDC,386.60,506.00,158.40
+Birla Corporation,"1,549.80","1,802.00","1,060.55"
+Jubilant Pharmova,746.40,775.00,318.75
+eClerx Services,"2,412.15","2,828.00","1,582.00"
+MMTC,77.26,101.90,31.00
+DOMS Industries,"1,898.15","2,035.00","1,225.60"
+Bombay Burmah Trading,"1,652.70","1,839.95",970.05
+Lemon Tree Hotels,144.63,158.00,89.90
+Aether Industries,859.60,"1,209.00",761.55
+Equitas Small Finance Bank,100.21,116.50,80.10
+Happy Forgings,"1,200.20","1,218.00",813.20
+Graphite,577.00,709.40,387.20
+Granules,462.45,485.95,281.35
+City Union Bank,148.27,167.80,119.50
+Can Fin Homes,817.35,909.80,680.00
+KNR Constructions,382.80,407.00,235.00
+Minda Corporation,450.00,469.50,275.30
+CE Info Systems,"1,969.70","2,343.95","1,152.50"
+Caplin Point Laboratories,"1,398.10","1,619.05",781.85
+Saregama India,548.45,570.70,290.81
+Rattan India Enterprises,76.54,94.85,37.55
+Glenmark Life Sciences,858.10,906.00,555.85
+Latent View Analytics,512.40,567.10,331.50
+Shree Renuka Sugars,49.30,57.25,36.55
+Indiabulls Housing Finance,171.90,209.30,99.88
+Alkyl Amines Chemicals,"2,021.50","2,797.70","1,808.00"
+CEAT,"2,539.35","2,998.45","1,992.40"
+Varroc Engineering,671.15,698.65,315.00
+Metropolis Healthcare,"1,990.25","2,067.95","1,285.00"
+GNFC,689.50,814.90,532.00
+Safari Industries,"2,044.80","2,315.00","1,371.03"
+Cera Sanitaryware,"7,563.00","9,740.00","6,591.20"
+JK Lakshmi Cement,825.30,999.90,607.20
+Gujarat Pipavav Port,200.72,225.35,111.85
+Route Mobile,"1,535.85","1,759.90","1,386.05"
+Sapphire Foods,"1,508.15","1,680.00","1,213.00"
+Mahindra Lifespaces,618.00,678.80,448.20
+Ujjivan Small Finance Bank,49.58,63.00,36.60
+PCBL,248.47,343.50,147.05
+Craftsman Automation,"4,417.60","5,513.65","3,782.05"
+Maharashtra Seamless,689.80,"1,084.35",444.40
+Rashtriya Chemicals & Fertilizers,167.60,190.00,105.25
+Quess Corp,619.30,670.40,397.70
+SBFC Finance,85.09,98.00,72.40
+Home First Finance Company,"1,022.10","1,063.80",743.40
+Just Dial,"1,051.90","1,162.00",693.05
+Gujarat State Fertilizers & Chemicals,223.99,322.25,146.15
+Balrampur Chini Mills,439.15,485.90,343.50
+Network 18 Media,84.11,135.70,57.15
+Chemplast Sanmar,555.85,574.40,402.80
+Campus Activewear,284.25,338.90,213.00
+Anupam Rasayan,783.90,"1,150.00",720.40
+Mahindra Holidays,425.65,470.00,286.00
+Triveni Engineering & Industries,391.65,416.50,267.50
+HEG,"2,214.05","2,743.00","1,395.00"
+Rajesh Exports,287.25,639.85,261.00
+Mastek,"2,754.55","3,145.00","1,890.00"
+Sunteck Realty,569.45,586.00,271.40
+Medplus Health Services,698.25,978.00,598.60
+Avanti Feeds,608.70,647.15,385.05
+Syrma SGS,466.45,705.20,386.10
+Vijaya Diagnostic Centre,806.85,880.00,388.00
+Jubilant Ingrevia,515.55,581.70,399.00
+Archean Chemical Industries,658.95,837.70,494.15
+CCL Products,608.15,749.50,551.60
+Prism Johnson,160.43,199.00,119.95
+JM Financial,84.37,114.85,69.00
+TVS Supply Chain Solutions,174.92,258.00,145.00
+Prince Pipes & Fittings,695.95,776.00,521.35
+Sun Pharma Advanced Research Co,234.40,472.80,189.65
+TV18 Broadcast,44.09,68.70,36.90
+Deepak Fertilisers & Petrochemicals,599.60,714.70,450.00
+JK Paper,446.10,448.50,306.40
+Easy Trip Planners,42.33,54.00,37.00
+Fairdeal Corporation,457.30,489.95,301.95
+Tamilnad Mercantile Bank,469.45,611.35,402.35
+Balaji Amines,"2,245.90","2,735.00","1,960.00"
+Laxmi Organic Industries,255.01,320.95,220.00
+Gujarat Ambuja Exports,150.39,210.60,117.85
+India Cements,218.73,277.00,172.55
+VIP Industries,474.95,722.85,428.50
+Borosil Renewables,506.05,669.35,391.05
+KRBL,286.70,470.90,258.15
+Sterlite Technologies,134.25,179.05,109.50
+Indigo Paints,"1,368.50","1,679.95","1,250.00"
+Allcargo Logistics,65.04,98.00,61.30
+Essel Propack,192.99,236.15,169.60
+GMM Pfaudler,"1,340.65","1,897.95","1,143.10"
+CSB Bank,345.25,422.25,263.10
+MTAR Technologies,"1,819.95","2,920.35","1,600.00"
+Vaibhav Global,328.15,533.00,262.65
+Restaurant Brand Asia (Burger King),106.88,137.70,91.50
+NMDC Steel,59.80,73.70,39.15
