@@ -5,24 +5,24 @@ const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 (async () => {
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
-    await page.goto('https://dhan.co/all-stocks-list/', { waitUntil: 'load', timeout: 0 });
+    await page.goto('https://dhan.co/all-stocks-list/', { waitUntil: 'networkidle2', timeout: 0 });
 
     const tabs = [
-        'All', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 
-        'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
+        'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 
+        'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Other'
     ];
 
     let allData = [];
 
     for (const tab of tabs) {
         await page.click(`label[for="${tab}"]`);
-        await page.waitForSelector('#comp_tble > tr', { timeout: 10000 }); // Wait for the table rows to appear
+        await page.waitForSelector('#sec_table > tr', { timeout: 5000 });
         
         const data = await page.evaluate(() => {
-            const rows = document.querySelectorAll('#comp_tble > tr');
+            const rows = document.querySelectorAll('#sec_table > tr');
             let result = [];
             rows.forEach(row => {
-                const companyNameElement = row.querySelector('td:nth-child(1) > a');
+                const companyNameElement = row.querySelector('td:nth-child(1) > a > p');
                 const LTPElement = row.querySelector('td:nth-child(2)');
                 const weekHighElement = row.querySelector('td:nth-child(6)');
                 const weekLowElement = row.querySelector('td:nth-child(7)');
