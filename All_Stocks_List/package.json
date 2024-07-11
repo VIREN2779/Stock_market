@@ -2,6 +2,7 @@
   "dependencies": {
     "csv-writer": "^1.6.0",
     "fs": "^0.0.1-security",
+    "pdf-lib": "^1.17.1",
     "puppeteer": "^22.11.0"
   }
 }
